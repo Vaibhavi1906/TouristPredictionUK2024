@@ -1,0 +1,1601 @@
+Area of Residence,Country,Year,Visits by Country,Spendings by Country
+North America,Canada,2019,874000,734
+North America,USA,2019,4499000,4184
+North America,Total North America,2019,5373000,4918
+Europe,Austria,2019,342000,172
+Europe,Belgium,2019,1135000,359
+Europe,Bulgaria,2019,235000,170
+Europe,Czech Republic,2019,414000,165
+Europe,Cyprus,2019,128000,107
+Europe,Denmark,2019,691000,329
+Europe,Finland,2019,215000,122
+Europe,France,2019,3561000,1398
+Europe,Germany,2019,3233000,1567
+Europe,Greece,2019,250000,170
+Europe,Hungary,2019,334000,145
+Europe,Republic of Ireland,2019,2851000,958
+Europe,Italy,2019,2197000,1109
+Europe,Lithuania,2019,236000,111
+Europe,Luxembourg,2019,146000,84
+Europe,Malta,2019,190000,130
+Europe,Netherlands,2019,1987000,796
+Europe,Norway,2019,647000,437
+Europe,Poland,2019,1651000,498
+Europe,Portugal,2019,613000,292
+Europe,Romania,2019,902000,439
+Europe,Russia,2019,199000,182
+Europe,Slovakia,2019,113000,42
+Europe,Spain,2019,2319000,977
+Europe,Sweden,2019,789000,400
+Europe,Switzerland,2019,926000,570
+Europe,Turkey,2019,334000,264
+Europe,Rest of Europe,2019,655000,414
+Europe,Total Europe,2019,27293000,12407
+Europe,EU,2019,24828000,10661
+Europe,EU15,2019,20328000,8733
+Europe,EU Other,2019,4500000,1928
+Other Countries,Egypt,2019,52000,80
+Other Countries,Morocco,2019,33000,35
+Other Countries,Tunisia,2019,9000,4
+Other Countries,Other North Africa,2019,21000,27
+Other Countries,South Africa,2019,217000,222
+Other Countries,Nigeria,2019,208000,332
+Other Countries,Other Africa,2019,188000,285
+Other Countries,Israel,2019,265000,243
+Other Countries,United Arab Emirates,2019,553000,869
+Other Countries,Other Middle East,2019,723000,1839
+Other Countries,Hong Kong (China),2019,409000,560
+Other Countries,Other China,2019,1010000,1898
+Other Countries,India,2019,692000,753
+Other Countries,Japan,2019,389000,369
+Other Countries,Pakistan,2019,90000,115
+Other Countries,Sri Lanka,2019,29000,27
+Other Countries,Thailand,2019,184000,279
+Other Countries,Other Asia,2019,955000,1115
+Other Countries,Australia,2019,1063000,1174
+Other Countries,New Zealand,2019,188000,171
+Other Countries,Barbados,2019,27000,15
+Other Countries,Jamaica,2019,8000,5
+Other Countries,Other Caribbean,2019,109000,103
+Other Countries,Brazil,2019,291000,250
+Other Countries,Mexico,2019,166000,122
+Other Countries,Other Central & Sth. America,2019,311000,230
+Other Countries,Rest of the World,2019,2000,0
+Other Countries,Total Other Countries,2019,8191000,11123
+Total World,Total World,2019,40857000,28448
+North America,Canada,2020,128000,147
+North America,USA,2020,663000,784
+North America,Total North America,2020,792000,932
+Europe,Austria,2020,56000,29
+Europe,Belgium,2020,159000,120
+Europe,Bulgaria,2020,57000,37
+Europe,Czech Republic,2020,55000,20
+Europe,Cyprus,2020,41000,33
+Europe,Denmark,2020,101000,62
+Europe,Finland,2020,17000,18
+Europe,France,2020,678000,421
+Europe,Germany,2020,390000,236
+Europe,Greece,2020,72000,72
+Europe,Hungary,2020,58000,21
+Europe,Republic of Ireland,2020,709000,294
+Europe,Italy,2020,255000,174
+Europe,Lithuania,2020,47000,19
+Europe,Luxembourg,2020,16000,11
+Europe,Malta,2020,27000,45
+Europe,Netherlands,2020,273000,145
+Europe,Norway,2020,76000,64
+Europe,Poland,2020,336000,109
+Europe,Portugal,2020,148000,74
+Europe,Romania,2020,192000,115
+Europe,Russia,2020,23000,19
+Europe,Slovakia,2020,11000,10
+Europe,Spain,2020,525000,298
+Europe,Sweden,2020,117000,79
+Europe,Switzerland,2020,163000,143
+Europe,Turkey,2020,30000,34
+Europe,Rest of Europe,2020,200000,200
+Europe,Total Europe,2020,4832000,2897
+Europe,EU,2020,4411000,2464
+Europe,EU15,2020,3516000,2030
+Europe,EU Other,2020,894000,435
+Other Countries,Egypt,2020,8000,22
+Other Countries,Morocco,2020,2000,5
+Other Countries,Tunisia,2020,1000,1
+Other Countries,Other North Africa,2020,1000,3
+Other Countries,South Africa,2020,17000,26
+Other Countries,Nigeria,2020,81000,174
+Other Countries,Other Africa,2020,26000,48
+Other Countries,Israel,2020,70000,76
+Other Countries,United Arab Emirates,2020,92000,200
+Other Countries,Other Middle East,2020,158000,592
+Other Countries,Hong Kong (China),2020,12000,44
+Other Countries,Other China,2020,16000,146
+Other Countries,India,2020,57000,115
+Other Countries,Japan,2020,11000,19
+Other Countries,Pakistan,2020,20000,21
+Other Countries,Sri Lanka,2020,0,2
+Other Countries,Thailand,2020,5000,13
+Other Countries,Other Asia,2020,75000,149
+Other Countries,Australia,2020,24000,35
+Other Countries,New Zealand,2020,10000,17
+Other Countries,Barbados,2020,2000,2
+Other Countries,Jamaica,2020,1000,2
+Other Countries,Other Caribbean,2020,19000,23
+Other Countries,Brazil,2020,20000,25
+Other Countries,Mexico,2020,9000,14
+Other Countries,Other Central & Sth. America,2020,20000,37
+Other Countries,Rest of the World,2020,0,2
+Other Countries,Total Other Countries,2020,759000,1818
+Total World,Total World,2020,6384000,5646
+North America,Canada,2021,128000,148
+North America,USA,2021,663000,783
+North America,Total North America,2021,792000,932
+Europe,Austria,2021,56000,29
+Europe,Belgium,2021,159000,120
+Europe,Bulgaria,2021,56000,38
+Europe,Czech Republic,2021,55000,21
+Europe,Cyprus,2021,42000,32
+Europe,Denmark,2021,102000,62
+Europe,Finland,2021,17000,18
+Europe,France,2021,677000,420
+Europe,Germany,2021,390000,235
+Europe,Greece,2021,72000,72
+Europe,Hungary,2021,58000,21
+Europe,Republic of Ireland,2021,708000,294
+Europe,Italy,2021,256000,174
+Europe,Lithuania,2021,47000,20
+Europe,Luxembourg,2021,17000,11
+Europe,Malta,2021,28000,45
+Europe,Netherlands,2021,273000,145
+Europe,Norway,2021,75000,63
+Europe,Poland,2021,337000,108
+Europe,Portugal,2021,147000,73
+Europe,Romania,2021,191000,114
+Europe,Russia,2021,23000,19
+Europe,Slovakia,2021,12000,10
+Europe,Spain,2021,525000,297
+Europe,Sweden,2021,117000,78
+Europe,Switzerland,2021,164000,143
+Europe,Turkey,2021,30000,33
+Europe,Rest of Europe,2021,201000,201
+Europe,Total Europe,2021,4834000,2897
+Europe,EU,2021,4410000,2464
+Europe,EU15,2021,3516000,2029
+Europe,EU Other,2021,895000,435
+Other Countries,Egypt,2021,8000,22
+Other Countries,Morocco,2021,2000,5
+Other Countries,Tunisia,2021,1000,1
+Other Countries,Other North Africa,2021,1000,2
+Other Countries,South Africa,2021,17000,26
+Other Countries,Nigeria,2021,80000,175
+Other Countries,Other Africa,2021,27000,48
+Other Countries,Israel,2021,71000,76
+Other Countries,United Arab Emirates,2021,91000,202
+Other Countries,Other Middle East,2021,158000,592
+Other Countries,Hong Kong (China),2021,12000,43
+Other Countries,Other China,2021,17000,146
+Other Countries,India,2021,58000,116
+Other Countries,Japan,2021,10000,19
+Other Countries,Pakistan,2021,20000,21
+Other Countries,Sri Lanka,2021,1000,3
+Other Countries,Thailand,2021,5000,12
+Other Countries,Other Asia,2021,75000,149
+Other Countries,Australia,2021,24000,35
+Other Countries,New Zealand,2021,9000,17
+Other Countries,Barbados,2021,2000,3
+Other Countries,Jamaica,2021,2000,2
+Other Countries,Other Caribbean,2021,18000,22
+Other Countries,Brazil,2021,19000,25
+Other Countries,Mexico,2021,9000,14
+Other Countries,Other Central & Sth. America,2021,20000,37
+Other Countries,Rest of the World,2021,1000,2
+Other Countries,Total Other Countries,2021,759000,1817
+Total World,Total World,2021,6384000,5646
+North America,Canada,2022,897000,934
+North America,USA,2022,4587000,5962
+North America,Total North America,2022,5483000,6896
+Europe,Austria,2022,288000,184
+Europe,Belgium,2022,679000,402
+Europe,Bulgaria,2022,183000,113
+Europe,Czech Republic,2022,276000,149
+Europe,Cyprus,2022,123000,105
+Europe,Denmark,2022,566000,309
+Europe,Finland,2022,169000,113
+Europe,France,2022,2830000,1575
+Europe,Germany,2022,2233000,1392
+Europe,Greece,2022,185000,143
+Europe,Hungary,2022,255000,89
+Europe,Republic of Ireland,2022,2509000,1027
+Europe,Italy,2022,1313000,798
+Europe,Lithuania,2022,164000,68
+Europe,Luxembourg,2022,82000,66
+Europe,Malta,2022,70000,36
+Europe,Netherlands,2022,1632000,894
+Europe,Norway,2022,547000,418
+Europe,Poland,2022,1345000,415
+Europe,Portugal,2022,494000,223
+Europe,Romania,2022,634000,277
+Europe,Russia,2022,44000,47
+Europe,Slovakia,2022,77000,39
+Europe,Spain,2022,2012000,1055
+Europe,Sweden,2022,630000,393
+Europe,Switzerland,2022,862000,647
+Europe,Turkey,2022,187000,167
+Europe,Rest of Europe,2022,592000,541
+Europe,Total Europe,2022,20979000,11678
+Europe,EU,2022,18959000,9962
+Europe,EU15,2022,15621000,8573
+Europe,EU Other,2022,3338000,1389
+Other Countries,Egypt,2022,31000,58
+Other Countries,Morocco,2022,15000,21
+Other Countries,Tunisia,2022,9000,11
+Other Countries,Other North Africa,2022,13000,24
+Other Countries,South Africa,2022,207000,275
+Other Countries,Nigeria,2022,207000,337
+Other Countries,Other Africa,2022,127000,206
+Other Countries,Israel,2022,245000,234
+Other Countries,United Arab Emirates,2022,380000,793
+Other Countries,Other Middle East,2022,470000,1368
+Other Countries,Hong Kong (China),2022,112000,235
+Other Countries,Other China,2022,73000,217
+Other Countries,India,2022,516000,764
+Other Countries,Japan,2022,115000,164
+Other Countries,Pakistan,2022,85000,152
+Other Countries,Sri Lanka,2022,13000,27
+Other Countries,Thailand,2022,82000,106
+Other Countries,Other Asia,2022,484000,754
+Other Countries,Australia,2022,723000,1118
+Other Countries,New Zealand,2022,126000,198
+Other Countries,Barbados,2022,8000,9
+Other Countries,Jamaica,2022,6000,8
+Other Countries,Other Caribbean,2022,74000,98
+Other Countries,Brazil,2022,267000,311
+Other Countries,Mexico,2022,163000,186
+Other Countries,Other Central & Sth. America,2022,227000,240
+Other Countries,Rest of the World,2022,4000,4
+Other Countries,Total Other Countries,2022,4782000,7922
+Total World,Total World,2022,31244000,26497
+North America,Canada,2023,1003000,970
+North America,USA,2023,5122000,6258
+North America,Total North America,2023,6125000,7227
+Europe,Austria,2023,337000,244
+Europe,Belgium,2023,867000,481
+Europe,Bulgaria,2023,216000,77
+Europe,Czech Republic,2023,284000,117
+Europe,Cyprus,2023,101000,82
+Europe,Denmark,2023,629000,362
+Europe,Finland,2023,202000,136
+Europe,France,2023,3172000,1635
+Europe,Germany,2023,2957000,1829
+Europe,Greece,2023,240000,184
+Europe,Hungary,2023,300000,91
+Europe,Republic of Ireland,2023,2889000,1236
+Europe,Italy,2023,1696000,973
+Europe,Lithuania,2023,194000,79
+Europe,Luxembourg,2023,81000,57
+Europe,Malta,2023,124000,69
+Europe,Netherlands,2023,1960000,1118
+Europe,Norway,2023,600000,447
+Europe,Poland,2023,1628000,472
+Europe,Portugal,2023,559000,292
+Europe,Romania,2023,805000,295
+Europe,Russia,2023,36000,28
+Europe,Slovakia,2023,133000,54
+Europe,Spain,2023,2210000,1069
+Europe,Sweden,2023,674000,410
+Europe,Switzerland,2023,968000,755
+Europe,Turkey,2023,311000,331
+Europe,Rest of Europe,2023,653000,507
+Europe,Total Europe,2023,24826000,13430
+Europe,EU,2023,22499000,11504
+Europe,EU15,2023,18472000,10026
+Europe,EU Other,2023,4026000,1478
+Other Countries,Egypt,2023,37000,56
+Other Countries,Morocco,2023,44000,54
+Other Countries,Tunisia,2023,15000,8
+Other Countries,Other North Africa,2023,22000,24
+Other Countries,South Africa,2023,219000,288
+Other Countries,Nigeria,2023,221000,393
+Other Countries,Other Africa,2023,150000,210
+Other Countries,Israel,2023,306000,300
+Other Countries,United Arab Emirates,2023,477000,914
+Other Countries,Other Middle East,2023,660000,1639
+Other Countries,Hong Kong (China),2023,256000,382
+Other Countries,Other China,2023,433000,865
+Other Countries,India,2023,604000,804
+Other Countries,Japan,2023,225000,243
+Other Countries,Pakistan,2023,85000,109
+Other Countries,Sri Lanka,2023,17000,17
+Other Countries,Thailand,2023,120000,159
+Other Countries,Other Asia,2023,690000,924
+Other Countries,Australia,2023,1169000,1598
+Other Countries,New Zealand,2023,265000,347
+Other Countries,Barbados,2023,11000,21
+Other Countries,Jamaica,2023,7000,11
+Other Countries,Other Caribbean,2023,78000,64
+Other Countries,Brazil,2023,344000,425
+Other Countries,Mexico,2023,187000,174
+Other Countries,Other Central & Sth. America,2023,361000,383
+Other Countries,Rest of the World,2023,6000,3
+Other Countries,Total Other Countries,2023,7009000,10417
+Total World,Total World,2023,37959000,31075
+North America,Canada,2019 Q1,132000,135
+North America,USA,2019 Q1,768000,683
+North America,Total North America,2019 Q1,900000,818
+Europe,Austria,2019 Q1,80000,36
+Europe,Belgium,2019 Q1,236000,60
+Europe,Bulgaria,2019 Q1,54000,12
+Europe,Czech Republic,2019 Q1,95000,16
+Europe,Cyprus,2019 Q1,11000,9
+Europe,Denmark,2019 Q1,118000,51
+Europe,Finland,2019 Q1,53000,24
+Europe,France,2019 Q1,813000,262
+Europe,Germany,2019 Q1,675000,239
+Europe,Greece,2019 Q1,49000,41
+Europe,Hungary,2019 Q1,80000,19
+Europe,Republic of Ireland,2019 Q1,652000,209
+Europe,Italy,2019 Q1,481000,236
+Europe,Lithuania,2019 Q1,63000,26
+Europe,Luxembourg,2019 Q1,37000,14
+Europe,Malta,2019 Q1,59000,41
+Europe,Netherlands,2019 Q1,397000,116
+Europe,Norway,2019 Q1,138000,74
+Europe,Poland,2019 Q1,382000,84
+Europe,Portugal,2019 Q1,141000,54
+Europe,Romania,2019 Q1,256000,107
+Europe,Russia,2019 Q1,27000,17
+Europe,Slovakia,2019 Q1,22000,4
+Europe,Spain,2019 Q1,525000,183
+Europe,Sweden,2019 Q1,199000,78
+Europe,Switzerland,2019 Q1,197000,109
+Europe,Turkey,2019 Q1,61000,41
+Europe,Rest of Europe,2019 Q1,141000,72
+Europe,Total Europe,2019 Q1,6044000,2232
+Europe,EU,2019 Q1,5543000,1942
+Europe,EU15,2019 Q1,4456000,1601
+Europe,EU Other,2019 Q1,1086000,341
+Other Countries,Egypt,2019 Q1,9000,17
+Other Countries,Morocco,2019 Q1,3000,1
+Other Countries,Tunisia,2019 Q1,1000,0
+Other Countries,Other North Africa,2019 Q1,5000,4
+Other Countries,South Africa,2019 Q1,45000,47
+Other Countries,Nigeria,2019 Q1,30000,34
+Other Countries,Other Africa,2019 Q1,25000,39
+Other Countries,Israel,2019 Q1,60000,70
+Other Countries,United Arab Emirates,2019 Q1,92000,158
+Other Countries,Other Middle East,2019 Q1,142000,357
+Other Countries,Hong Kong (China),2019 Q1,70000,106
+Other Countries,Other China,2019 Q1,155000,242
+Other Countries,India,2019 Q1,119000,106
+Other Countries,Japan,2019 Q1,76000,52
+Other Countries,Pakistan,2019 Q1,20000,24
+Other Countries,Sri Lanka,2019 Q1,2000,2
+Other Countries,Thailand,2019 Q1,31000,45
+Other Countries,Other Asia,2019 Q1,173000,154
+Other Countries,Australia,2019 Q1,139000,140
+Other Countries,New Zealand,2019 Q1,22000,16
+Other Countries,Barbados,2019 Q1,5000,2
+Other Countries,Jamaica,2019 Q1,4000,2
+Other Countries,Other Caribbean,2019 Q1,7000,12
+Other Countries,Brazil,2019 Q1,74000,64
+Other Countries,Mexico,2019 Q1,28000,22
+Other Countries,Other Central & Sth. America,2019 Q1,51000,38
+Other Countries,Rest of the World,2019 Q1,0,0
+Other Countries,Total Other Countries,2019 Q1,1388000,1755
+Total World,Total World,2019 Q1,8332000,4805
+North America,Canada,2019 Q2,253000,219
+North America,USA,2019 Q2,1284000,1243
+North America,Total North America,2019 Q2,1537000,1462
+Europe,Austria,2019 Q2,84000,39
+Europe,Belgium,2019 Q2,300000,74
+Europe,Bulgaria,2019 Q2,44000,21
+Europe,Czech Republic,2019 Q2,122000,33
+Europe,Cyprus,2019 Q2,51000,53
+Europe,Denmark,2019 Q2,186000,96
+Europe,Finland,2019 Q2,47000,33
+Europe,France,2019 Q2,929000,294
+Europe,Germany,2019 Q2,799000,424
+Europe,Greece,2019 Q2,66000,39
+Europe,Hungary,2019 Q2,74000,27
+Europe,Republic of Ireland,2019 Q2,718000,216
+Europe,Italy,2019 Q2,556000,227
+Europe,Lithuania,2019 Q2,55000,51
+Europe,Luxembourg,2019 Q2,41000,19
+Europe,Malta,2019 Q2,29000,13
+Europe,Netherlands,2019 Q2,460000,192
+Europe,Norway,2019 Q2,149000,75
+Europe,Poland,2019 Q2,413000,108
+Europe,Portugal,2019 Q2,172000,69
+Europe,Romania,2019 Q2,217000,136
+Europe,Russia,2019 Q2,57000,63
+Europe,Slovakia,2019 Q2,27000,13
+Europe,Spain,2019 Q2,634000,260
+Europe,Sweden,2019 Q2,194000,101
+Europe,Switzerland,2019 Q2,243000,124
+Europe,Turkey,2019 Q2,67000,47
+Europe,Rest of Europe,2019 Q2,144000,116
+Europe,Total Europe,2019 Q2,6879000,2964
+Europe,EU,2019 Q2,6272000,2562
+Europe,EU15,2019 Q2,5187000,2083
+Europe,EU Other,2019 Q2,1085000,479
+Other Countries,Egypt,2019 Q2,10000,20
+Other Countries,Morocco,2019 Q2,4000,2
+Other Countries,Tunisia,2019 Q2,0,0
+Other Countries,Other North Africa,2019 Q2,4000,5
+Other Countries,South Africa,2019 Q2,51000,54
+Other Countries,Nigeria,2019 Q2,38000,63
+Other Countries,Other Africa,2019 Q2,43000,68
+Other Countries,Israel,2019 Q2,51000,41
+Other Countries,United Arab Emirates,2019 Q2,130000,211
+Other Countries,Other Middle East,2019 Q2,124000,253
+Other Countries,Hong Kong (China),2019 Q2,106000,145
+Other Countries,Other China,2019 Q2,235000,413
+Other Countries,India,2019 Q2,223000,229
+Other Countries,Japan,2019 Q2,94000,83
+Other Countries,Pakistan,2019 Q2,13000,17
+Other Countries,Sri Lanka,2019 Q2,5000,9
+Other Countries,Thailand,2019 Q2,48000,52
+Other Countries,Other Asia,2019 Q2,240000,297
+Other Countries,Australia,2019 Q2,270000,334
+Other Countries,New Zealand,2019 Q2,53000,33
+Other Countries,Barbados,2019 Q2,8000,6
+Other Countries,Jamaica,2019 Q2,0,0
+Other Countries,Other Caribbean,2019 Q2,22000,20
+Other Countries,Brazil,2019 Q2,61000,48
+Other Countries,Mexico,2019 Q2,43000,21
+Other Countries,Other Central & Sth. America,2019 Q2,74000,46
+Other Countries,Rest of the World,2019 Q2,0,0
+Other Countries,Total Other Countries,2019 Q2,1948000,2470
+Total World,Total World,2019 Q2,10364000,6896
+North America,Canada,2019 Q3,301000,250
+North America,USA,2019 Q3,1443000,1349
+North America,Total North America,2019 Q3,1745000,1598
+Europe,Austria,2019 Q3,86000,54
+Europe,Belgium,2019 Q3,308000,120
+Europe,Bulgaria,2019 Q3,67000,99
+Europe,Czech Republic,2019 Q3,95000,55
+Europe,Cyprus,2019 Q3,30000,19
+Europe,Denmark,2019 Q3,187000,80
+Europe,Finland,2019 Q3,57000,36
+Europe,France,2019 Q3,898000,422
+Europe,Germany,2019 Q3,945000,519
+Europe,Greece,2019 Q3,42000,16
+Europe,Hungary,2019 Q3,91000,43
+Europe,Republic of Ireland,2019 Q3,716000,208
+Europe,Italy,2019 Q3,629000,397
+Europe,Lithuania,2019 Q3,76000,23
+Europe,Luxembourg,2019 Q3,33000,12
+Europe,Malta,2019 Q3,52000,42
+Europe,Netherlands,2019 Q3,602000,276
+Europe,Norway,2019 Q3,163000,147
+Europe,Poland,2019 Q3,421000,146
+Europe,Portugal,2019 Q3,148000,88
+Europe,Romania,2019 Q3,203000,89
+Europe,Russia,2019 Q3,66000,51
+Europe,Slovakia,2019 Q3,29000,13
+Europe,Spain,2019 Q3,545000,290
+Europe,Sweden,2019 Q3,193000,105
+Europe,Switzerland,2019 Q3,206000,164
+Europe,Turkey,2019 Q3,120000,105
+Europe,Rest of Europe,2019 Q3,148000,98
+Europe,Total Europe,2019 Q3,7156000,3715
+Europe,EU,2019 Q3,6512000,3170
+Europe,EU15,2019 Q3,5389000,2622
+Europe,EU Other,2019 Q3,1123000,548
+Other Countries,Egypt,2019 Q3,23000,23
+Other Countries,Morocco,2019 Q3,18000,15
+Other Countries,Tunisia,2019 Q3,1000,1
+Other Countries,Other North Africa,2019 Q3,5000,8
+Other Countries,South Africa,2019 Q3,71000,61
+Other Countries,Nigeria,2019 Q3,83000,105
+Other Countries,Other Africa,2019 Q3,79000,70
+Other Countries,Israel,2019 Q3,74000,54
+Other Countries,United Arab Emirates,2019 Q3,195000,277
+Other Countries,Other Middle East,2019 Q3,272000,655
+Other Countries,Hong Kong (China),2019 Q3,142000,198
+Other Countries,Other China,2019 Q3,419000,674
+Other Countries,India,2019 Q3,233000,300
+Other Countries,Japan,2019 Q3,117000,143
+Other Countries,Pakistan,2019 Q3,33000,48
+Other Countries,Sri Lanka,2019 Q3,16000,12
+Other Countries,Thailand,2019 Q3,54000,98
+Other Countries,Other Asia,2019 Q3,289000,348
+Other Countries,Australia,2019 Q3,421000,415
+Other Countries,New Zealand,2019 Q3,76000,82
+Other Countries,Barbados,2019 Q3,10000,6
+Other Countries,Jamaica,2019 Q3,1000,1
+Other Countries,Other Caribbean,2019 Q3,50000,33
+Other Countries,Brazil,2019 Q3,92000,97
+Other Countries,Mexico,2019 Q3,61000,61
+Other Countries,Other Central & Sth. America,2019 Q3,127000,95
+Other Countries,Rest of the World,2019 Q3,1000,0
+Other Countries,Total Other Countries,2019 Q3,2963000,3880
+Total World,Total World,2019 Q3,11864000,9193
+North America,Canada,2019 Q4,188000,131
+North America,USA,2019 Q4,1003000,910
+North America,Total North America,2019 Q4,1191000,1041
+Europe,Austria,2019 Q4,91000,43
+Europe,Belgium,2019 Q4,291000,106
+Europe,Bulgaria,2019 Q4,71000,38
+Europe,Czech Republic,2019 Q4,102000,60
+Europe,Cyprus,2019 Q4,36000,26
+Europe,Denmark,2019 Q4,201000,102
+Europe,Finland,2019 Q4,57000,28
+Europe,France,2019 Q4,921000,420
+Europe,Germany,2019 Q4,814000,385
+Europe,Greece,2019 Q4,93000,74
+Europe,Hungary,2019 Q4,90000,56
+Europe,Republic of Ireland,2019 Q4,765000,326
+Europe,Italy,2019 Q4,530000,249
+Europe,Lithuania,2019 Q4,42000,11
+Europe,Luxembourg,2019 Q4,35000,39
+Europe,Malta,2019 Q4,50000,34
+Europe,Netherlands,2019 Q4,528000,212
+Europe,Norway,2019 Q4,197000,141
+Europe,Poland,2019 Q4,435000,161
+Europe,Portugal,2019 Q4,152000,81
+Europe,Romania,2019 Q4,227000,107
+Europe,Russia,2019 Q4,48000,51
+Europe,Slovakia,2019 Q4,34000,12
+Europe,Spain,2019 Q4,615000,246
+Europe,Sweden,2019 Q4,203000,117
+Europe,Switzerland,2019 Q4,280000,173
+Europe,Turkey,2019 Q4,87000,71
+Europe,Rest of Europe,2019 Q4,222000,129
+Europe,Total Europe,2019 Q4,7215000,3497
+Europe,EU,2019 Q4,6502000,2988
+Europe,EU15,2019 Q4,5295000,2428
+Europe,EU Other,2019 Q4,1206000,560
+Other Countries,Egypt,2019 Q4,10000,21
+Other Countries,Morocco,2019 Q4,8000,16
+Other Countries,Tunisia,2019 Q4,7000,2
+Other Countries,Other North Africa,2019 Q4,8000,9
+Other Countries,South Africa,2019 Q4,49000,61
+Other Countries,Nigeria,2019 Q4,58000,130
+Other Countries,Other Africa,2019 Q4,42000,108
+Other Countries,Israel,2019 Q4,79000,78
+Other Countries,United Arab Emirates,2019 Q4,136000,224
+Other Countries,Other Middle East,2019 Q4,185000,574
+Other Countries,Hong Kong (China),2019 Q4,91000,111
+Other Countries,Other China,2019 Q4,201000,569
+Other Countries,India,2019 Q4,117000,117
+Other Countries,Japan,2019 Q4,101000,92
+Other Countries,Pakistan,2019 Q4,24000,26
+Other Countries,Sri Lanka,2019 Q4,5000,4
+Other Countries,Thailand,2019 Q4,51000,83
+Other Countries,Other Asia,2019 Q4,253000,316
+Other Countries,Australia,2019 Q4,234000,285
+Other Countries,New Zealand,2019 Q4,37000,40
+Other Countries,Barbados,2019 Q4,5000,1
+Other Countries,Jamaica,2019 Q4,2000,2
+Other Countries,Other Caribbean,2019 Q4,30000,38
+Other Countries,Brazil,2019 Q4,64000,41
+Other Countries,Mexico,2019 Q4,34000,18
+Other Countries,Other Central & Sth. America,2019 Q4,59000,52
+Other Countries,Rest of the World,2019 Q4,0,0
+Other Countries,Total Other Countries,2019 Q4,1891000,3018
+Total World,Total World,2019 Q4,10297000,7555
+North America,Canada,2020 Q1,2000,2
+North America,USA,2020 Q1,29000,29
+North America,Total North America,2020 Q1,31000,31
+Europe,Austria,2020 Q1,3000,1
+Europe,Belgium,2020 Q1,2000,1
+Europe,Bulgaria,2020 Q1,8000,10
+Europe,Czech Republic,2020 Q1,1000,0
+Europe,Cyprus,2020 Q1,2000,0
+Europe,Denmark,2020 Q1,2000,3
+Europe,Finland,2020 Q1,1000,0
+Europe,France,2020 Q1,13000,12
+Europe,Germany,2020 Q1,10000,8
+Europe,Greece,2020 Q1,4000,10
+Europe,Hungary,2020 Q1,1000,1
+Europe,Republic of Ireland,2020 Q1,24000,13
+Europe,Italy,2020 Q1,10000,11
+Europe,Lithuania,2020 Q1,2000,0
+Europe,Luxembourg,2020 Q1,0,0
+Europe,Malta,2020 Q1,0,0
+Europe,Netherlands,2020 Q1,13000,3
+Europe,Norway,2020 Q1,1000,1
+Europe,Poland,2020 Q1,8000,8
+Europe,Portugal,2020 Q1,3000,2
+Europe,Romania,2020 Q1,13000,21
+Europe,Russia,2020 Q1,2000,2
+Europe,Slovakia,2020 Q1,0,0
+Europe,Spain,2020 Q1,24000,21
+Europe,Sweden,2020 Q1,2000,2
+Europe,Switzerland,2020 Q1,2000,3
+Europe,Turkey,2020 Q1,1000,2
+Europe,Rest of Europe,2020 Q1,5000,8
+Europe,Total Europe,2020 Q1,158000,143
+Europe,EU,2020 Q1,147000,127
+Europe,EU15,2020 Q1,111000,86
+Europe,EU Other,2020 Q1,36000,41
+Other Countries,Egypt,2020 Q1,1000,1
+Other Countries,Morocco,2020 Q1,0,0
+Other Countries,Tunisia,2020 Q1,0,0
+Other Countries,Other North Africa,2020 Q1,0,1
+Other Countries,South Africa,2020 Q1,2000,3
+Other Countries,Nigeria,2020 Q1,6000,15
+Other Countries,Other Africa,2020 Q1,2000,2
+Other Countries,Israel,2020 Q1,0,0
+Other Countries,United Arab Emirates,2020 Q1,4000,8
+Other Countries,Other Middle East,2020 Q1,6000,21
+Other Countries,Hong Kong (China),2020 Q1,1000,5
+Other Countries,Other China,2020 Q1,1000,6
+Other Countries,India,2020 Q1,6000,8
+Other Countries,Japan,2020 Q1,2000,5
+Other Countries,Pakistan,2020 Q1,4000,5
+Other Countries,Sri Lanka,2020 Q1,0,2
+Other Countries,Thailand,2020 Q1,1000,4
+Other Countries,Other Asia,2020 Q1,4000,9
+Other Countries,Australia,2020 Q1,1000,1
+Other Countries,New Zealand,2020 Q1,1000,6
+Other Countries,Barbados,2020 Q1,0,0
+Other Countries,Jamaica,2020 Q1,0,0
+Other Countries,Other Caribbean,2020 Q1,2000,2
+Other Countries,Brazil,2020 Q1,3000,3
+Other Countries,Mexico,2020 Q1,0,1
+Other Countries,Other Central & Sth. America,2020 Q1,6000,4
+Other Countries,Rest of the World,2020 Q1,0,0
+Other Countries,Total Other Countries,2020 Q1,56000,113
+Total World,Total World,2020 Q1,245000,287
+North America,Canada,2020 Q2,4000,9
+North America,USA,2020 Q2,47000,59
+North America,Total North America,2020 Q2,51000,68
+Europe,Austria,2020 Q2,4000,4
+Europe,Belgium,2020 Q2,6000,7
+Europe,Bulgaria,2020 Q2,3000,4
+Europe,Czech Republic,2020 Q2,3000,3
+Europe,Cyprus,2020 Q2,2000,2
+Europe,Denmark,2020 Q2,4000,4
+Europe,Finland,2020 Q2,1000,2
+Europe,France,2020 Q2,24000,28
+Europe,Germany,2020 Q2,19000,21
+Europe,Greece,2020 Q2,4000,3
+Europe,Hungary,2020 Q2,2000,1
+Europe,Republic of Ireland,2020 Q2,47000,30
+Europe,Italy,2020 Q2,13000,15
+Europe,Lithuania,2020 Q2,1000,1
+Europe,Luxembourg,2020 Q2,1000,1
+Europe,Malta,2020 Q2,1000,2
+Europe,Netherlands,2020 Q2,13000,12
+Europe,Norway,2020 Q2,2000,4
+Europe,Poland,2020 Q2,10000,11
+Europe,Portugal,2020 Q2,8000,7
+Europe,Romania,2020 Q2,16000,17
+Europe,Russia,2020 Q2,4000,4
+Europe,Slovakia,2020 Q2,1000,1
+Europe,Spain,2020 Q2,25000,25
+Europe,Sweden,2020 Q2,5000,4
+Europe,Switzerland,2020 Q2,11000,12
+Europe,Turkey,2020 Q2,2000,4
+Europe,Rest of Europe,2020 Q2,10000,20
+Europe,Total Europe,2020 Q2,242000,247
+Europe,EU,2020 Q2,216000,205
+Europe,EU15,2020 Q2,173000,162
+Europe,EU Other,2020 Q2,42000,44
+Other Countries,Egypt,2020 Q2,1000,2
+Other Countries,Morocco,2020 Q2,0,0
+Other Countries,Tunisia,2020 Q2,0,1
+Other Countries,Other North Africa,2020 Q2,0,1
+Other Countries,South Africa,2020 Q2,2000,3
+Other Countries,Nigeria,2020 Q2,7000,20
+Other Countries,Other Africa,2020 Q2,2000,9
+Other Countries,Israel,2020 Q2,5000,4
+Other Countries,United Arab Emirates,2020 Q2,3000,12
+Other Countries,Other Middle East,2020 Q2,9000,95
+Other Countries,Hong Kong (China),2020 Q2,1000,7
+Other Countries,Other China,2020 Q2,4000,44
+Other Countries,India,2020 Q2,3000,5
+Other Countries,Japan,2020 Q2,2000,3
+Other Countries,Pakistan,2020 Q2,1000,2
+Other Countries,Sri Lanka,2020 Q2,0,0
+Other Countries,Thailand,2020 Q2,1000,2
+Other Countries,Other Asia,2020 Q2,4000,7
+Other Countries,Australia,2020 Q2,1000,5
+Other Countries,New Zealand,2020 Q2,1000,1
+Other Countries,Barbados,2020 Q2,0,0
+Other Countries,Jamaica,2020 Q2,0,0
+Other Countries,Other Caribbean,2020 Q2,2000,3
+Other Countries,Brazil,2020 Q2,1000,2
+Other Countries,Mexico,2020 Q2,1000,1
+Other Countries,Other Central & Sth. America,2020 Q2,1000,1
+Other Countries,Rest of the World,2020 Q2,0,0
+Other Countries,Total Other Countries,2020 Q2,53000,231
+Total World,Total World,2020 Q2,346000,545
+North America,Canada,2020 Q3,50000,53
+North America,USA,2020 Q3,239000,276
+North America,Total North America,2020 Q3,289000,329
+Europe,Austria,2020 Q3,24000,12
+Europe,Belgium,2020 Q3,33000,18
+Europe,Bulgaria,2020 Q3,20000,11
+Europe,Czech Republic,2020 Q3,20000,7
+Europe,Cyprus,2020 Q3,11000,15
+Europe,Denmark,2020 Q3,23000,16
+Europe,Finland,2020 Q3,3000,6
+Europe,France,2020 Q3,148000,74
+Europe,Germany,2020 Q3,144000,82
+Europe,Greece,2020 Q3,23000,27
+Europe,Hungary,2020 Q3,18000,5
+Europe,Republic of Ireland,2020 Q3,247000,102
+Europe,Italy,2020 Q3,85000,61
+Europe,Lithuania,2020 Q3,19000,7
+Europe,Luxembourg,2020 Q3,7000,5
+Europe,Malta,2020 Q3,10000,9
+Europe,Netherlands,2020 Q3,77000,44
+Europe,Norway,2020 Q3,13000,8
+Europe,Poland,2020 Q3,135000,43
+Europe,Portugal,2020 Q3,45000,27
+Europe,Romania,2020 Q3,62000,36
+Europe,Russia,2020 Q3,10000,7
+Europe,Slovakia,2020 Q3,4000,5
+Europe,Spain,2020 Q3,174000,97
+Europe,Sweden,2020 Q3,45000,27
+Europe,Switzerland,2020 Q3,63000,65
+Europe,Turkey,2020 Q3,3000,3
+Europe,Rest of Europe,2020 Q3,63000,63
+Europe,Total Europe,2020 Q3,1528000,881
+Europe,EU,2020 Q3,1395000,739
+Europe,EU15,2020 Q3,1078000,597
+Europe,EU Other,2020 Q3,317000,142
+Other Countries,Egypt,2020 Q3,2000,4
+Other Countries,Morocco,2020 Q3,1000,3
+Other Countries,Tunisia,2020 Q3,0,0
+Other Countries,Other North Africa,2020 Q3,1000,1
+Other Countries,South Africa,2020 Q3,3000,6
+Other Countries,Nigeria,2020 Q3,36000,64
+Other Countries,Other Africa,2020 Q3,7000,14
+Other Countries,Israel,2020 Q3,30000,34
+Other Countries,United Arab Emirates,2020 Q3,22000,49
+Other Countries,Other Middle East,2020 Q3,48000,179
+Other Countries,Hong Kong (China),2020 Q3,4000,10
+Other Countries,Other China,2020 Q3,8000,80
+Other Countries,India,2020 Q3,15000,30
+Other Countries,Japan,2020 Q3,2000,3
+Other Countries,Pakistan,2020 Q3,3000,2
+Other Countries,Sri Lanka,2020 Q3,0,0
+Other Countries,Thailand,2020 Q3,2000,6
+Other Countries,Other Asia,2020 Q3,13000,40
+Other Countries,Australia,2020 Q3,3000,5
+Other Countries,New Zealand,2020 Q3,3000,6
+Other Countries,Barbados,2020 Q3,1000,1
+Other Countries,Jamaica,2020 Q3,0,0
+Other Countries,Other Caribbean,2020 Q3,5000,8
+Other Countries,Brazil,2020 Q3,3000,3
+Other Countries,Mexico,2020 Q3,5000,6
+Other Countries,Other Central & Sth. America,2020 Q3,4000,8
+Other Countries,Rest of the World,2020 Q3,0,1
+Other Countries,Total Other Countries,2020 Q3,222000,565
+Total World,Total World,2020 Q3,2040000,1775
+North America,Canada,2020 Q4,72000,83
+North America,USA,2020 Q4,348000,420
+North America,Total North America,2020 Q4,421000,504
+Europe,Austria,2020 Q4,25000,12
+Europe,Belgium,2020 Q4,118000,94
+Europe,Bulgaria,2020 Q4,26000,12
+Europe,Czech Republic,2020 Q4,31000,10
+Europe,Cyprus,2020 Q4,26000,16
+Europe,Denmark,2020 Q4,72000,39
+Europe,Finland,2020 Q4,12000,10
+Europe,France,2020 Q4,493000,307
+Europe,Germany,2020 Q4,217000,125
+Europe,Greece,2020 Q4,41000,32
+Europe,Hungary,2020 Q4,37000,14
+Europe,Republic of Ireland,2020 Q4,391000,149
+Europe,Italy,2020 Q4,147000,87
+Europe,Lithuania,2020 Q4,25000,11
+Europe,Luxembourg,2020 Q4,8000,5
+Europe,Malta,2020 Q4,16000,34
+Europe,Netherlands,2020 Q4,170000,86
+Europe,Norway,2020 Q4,60000,51
+Europe,Poland,2020 Q4,183000,47
+Europe,Portugal,2020 Q4,92000,38
+Europe,Romania,2020 Q4,101000,41
+Europe,Russia,2020 Q4,7000,6
+Europe,Slovakia,2020 Q4,6000,4
+Europe,Spain,2020 Q4,302000,155
+Europe,Sweden,2020 Q4,65000,46
+Europe,Switzerland,2020 Q4,87000,63
+Europe,Turkey,2020 Q4,24000,25
+Europe,Rest of Europe,2020 Q4,122000,109
+Europe,Total Europe,2020 Q4,2904000,1626
+Europe,EU,2020 Q4,2653000,1393
+Europe,EU15,2020 Q4,2154000,1185
+Europe,EU Other,2020 Q4,499000,208
+Other Countries,Egypt,2020 Q4,4000,15
+Other Countries,Morocco,2020 Q4,1000,2
+Other Countries,Tunisia,2020 Q4,1000,0
+Other Countries,Other North Africa,2020 Q4,0,0
+Other Countries,South Africa,2020 Q4,10000,14
+Other Countries,Nigeria,2020 Q4,32000,75
+Other Countries,Other Africa,2020 Q4,15000,23
+Other Countries,Israel,2020 Q4,35000,38
+Other Countries,United Arab Emirates,2020 Q4,63000,131
+Other Countries,Other Middle East,2020 Q4,95000,297
+Other Countries,Hong Kong (China),2020 Q4,6000,22
+Other Countries,Other China,2020 Q4,3000,16
+Other Countries,India,2020 Q4,33000,72
+Other Countries,Japan,2020 Q4,5000,8
+Other Countries,Pakistan,2020 Q4,12000,12
+Other Countries,Sri Lanka,2020 Q4,0,0
+Other Countries,Thailand,2020 Q4,1000,1
+Other Countries,Other Asia,2020 Q4,54000,93
+Other Countries,Australia,2020 Q4,19000,24
+Other Countries,New Zealand,2020 Q4,5000,4
+Other Countries,Barbados,2020 Q4,1000,1
+Other Countries,Jamaica,2020 Q4,1000,2
+Other Countries,Other Caribbean,2020 Q4,10000,10
+Other Countries,Brazil,2020 Q4,13000,17
+Other Countries,Mexico,2020 Q4,3000,6
+Other Countries,Other Central & Sth. America,2020 Q4,9000,24
+Other Countries,Rest of the World,2020 Q4,0,1
+Other Countries,Total Other Countries,2020 Q4,428000,909
+Total World,Total World,2020 Q4,3753000,3039
+North America,Canada,2021 Q1,2000,2
+North America,USA,2021 Q1,29000,29
+North America,Total North America,2021 Q1,31000,31
+Europe,Austria,2021 Q1,3000,1
+Europe,Belgium,2021 Q1,2000,1
+Europe,Bulgaria,2021 Q1,8000,10
+Europe,Czech Republic,2021 Q1,1000,0
+Europe,Cyprus,2021 Q1,2000,0
+Europe,Denmark,2021 Q1,2000,3
+Europe,Finland,2021 Q1,1000,0
+Europe,France,2021 Q1,13000,12
+Europe,Germany,2021 Q1,10000,8
+Europe,Greece,2021 Q1,4000,10
+Europe,Hungary,2021 Q1,1000,1
+Europe,Republic of Ireland,2021 Q1,24000,13
+Europe,Italy,2021 Q1,10000,11
+Europe,Lithuania,2021 Q1,2000,0
+Europe,Luxembourg,2021 Q1,0,0
+Europe,Malta,2021 Q1,0,0
+Europe,Netherlands,2021 Q1,13000,3
+Europe,Norway,2021 Q1,1000,1
+Europe,Poland,2021 Q1,8000,8
+Europe,Portugal,2021 Q1,3000,2
+Europe,Romania,2021 Q1,13000,21
+Europe,Russia,2021 Q1,2000,2
+Europe,Slovakia,2021 Q1,0,0
+Europe,Spain,2021 Q1,24000,21
+Europe,Sweden,2021 Q1,2000,2
+Europe,Switzerland,2021 Q1,2000,3
+Europe,Turkey,2021 Q1,1000,2
+Europe,Rest of Europe,2021 Q1,5000,8
+Europe,Total Europe,2021 Q1,158000,143
+Europe,EU,2021 Q1,147000,127
+Europe,EU15,2021 Q1,111000,86
+Europe,EU Other,2021 Q1,36000,41
+Other Countries,Egypt,2021 Q1,1000,1
+Other Countries,Morocco,2021 Q1,0,0
+Other Countries,Tunisia,2021 Q1,0,0
+Other Countries,Other North Africa,2021 Q1,0,1
+Other Countries,South Africa,2021 Q1,2000,3
+Other Countries,Nigeria,2021 Q1,6000,15
+Other Countries,Other Africa,2021 Q1,2000,2
+Other Countries,Israel,2021 Q1,0,0
+Other Countries,United Arab Emirates,2021 Q1,4000,8
+Other Countries,Other Middle East,2021 Q1,6000,21
+Other Countries,Hong Kong (China),2021 Q1,1000,5
+Other Countries,Other China,2021 Q1,1000,6
+Other Countries,India,2021 Q1,6000,8
+Other Countries,Japan,2021 Q1,2000,5
+Other Countries,Pakistan,2021 Q1,4000,5
+Other Countries,Sri Lanka,2021 Q1,0,2
+Other Countries,Thailand,2021 Q1,1000,4
+Other Countries,Other Asia,2021 Q1,4000,9
+Other Countries,Australia,2021 Q1,1000,1
+Other Countries,New Zealand,2021 Q1,1000,6
+Other Countries,Barbados,2021 Q1,0,0
+Other Countries,Jamaica,2021 Q1,0,0
+Other Countries,Other Caribbean,2021 Q1,2000,2
+Other Countries,Brazil,2021 Q1,3000,3
+Other Countries,Mexico,2021 Q1,0,1
+Other Countries,Other Central & Sth. America,2021 Q1,6000,4
+Other Countries,Rest of the World,2021 Q1,0,0
+Other Countries,Total Other Countries,2021 Q1,56000,113
+Total World,Total World,2021 Q1,245000,287
+North America,Canada,2021 Q2,4000,9
+North America,USA,2021 Q2,47000,59
+North America,Total North America,2021 Q2,51000,68
+Europe,Austria,2021 Q2,4000,4
+Europe,Belgium,2021 Q2,6000,7
+Europe,Bulgaria,2021 Q2,3000,4
+Europe,Czech Republic,2021 Q2,3000,3
+Europe,Cyprus,2021 Q2,2000,2
+Europe,Denmark,2021 Q2,4000,4
+Europe,Finland,2021 Q2,1000,2
+Europe,France,2021 Q2,24000,28
+Europe,Germany,2021 Q2,19000,21
+Europe,Greece,2021 Q2,4000,3
+Europe,Hungary,2021 Q2,2000,1
+Europe,Republic of Ireland,2021 Q2,47000,30
+Europe,Italy,2021 Q2,13000,15
+Europe,Lithuania,2021 Q2,1000,1
+Europe,Luxembourg,2021 Q2,1000,1
+Europe,Malta,2021 Q2,1000,2
+Europe,Netherlands,2021 Q2,13000,12
+Europe,Norway,2021 Q2,2000,4
+Europe,Poland,2021 Q2,10000,11
+Europe,Portugal,2021 Q2,8000,7
+Europe,Romania,2021 Q2,16000,17
+Europe,Russia,2021 Q2,4000,4
+Europe,Slovakia,2021 Q2,1000,1
+Europe,Spain,2021 Q2,25000,25
+Europe,Sweden,2021 Q2,5000,4
+Europe,Switzerland,2021 Q2,11000,12
+Europe,Turkey,2021 Q2,2000,4
+Europe,Rest of Europe,2021 Q2,10000,20
+Europe,Total Europe,2021 Q2,242000,247
+Europe,EU,2021 Q2,216000,205
+Europe,EU15,2021 Q2,173000,162
+Europe,EU Other,2021 Q2,42000,44
+Other Countries,Egypt,2021 Q2,1000,2
+Other Countries,Morocco,2021 Q2,0,0
+Other Countries,Tunisia,2021 Q2,0,1
+Other Countries,Other North Africa,2021 Q2,0,1
+Other Countries,South Africa,2021 Q2,2000,3
+Other Countries,Nigeria,2021 Q2,7000,20
+Other Countries,Other Africa,2021 Q2,2000,9
+Other Countries,Israel,2021 Q2,5000,4
+Other Countries,United Arab Emirates,2021 Q2,3000,12
+Other Countries,Other Middle East,2021 Q2,9000,95
+Other Countries,Hong Kong (China),2021 Q2,1000,7
+Other Countries,Other China,2021 Q2,4000,44
+Other Countries,India,2021 Q2,3000,5
+Other Countries,Japan,2021 Q2,2000,3
+Other Countries,Pakistan,2021 Q2,1000,2
+Other Countries,Sri Lanka,2021 Q2,0,0
+Other Countries,Thailand,2021 Q2,1000,2
+Other Countries,Other Asia,2021 Q2,4000,7
+Other Countries,Australia,2021 Q2,1000,5
+Other Countries,New Zealand,2021 Q2,1000,1
+Other Countries,Barbados,2021 Q2,0,0
+Other Countries,Jamaica,2021 Q2,0,0
+Other Countries,Other Caribbean,2021 Q2,2000,3
+Other Countries,Brazil,2021 Q2,1000,2
+Other Countries,Mexico,2021 Q2,1000,1
+Other Countries,Other Central & Sth. America,2021 Q2,1000,1
+Other Countries,Rest of the World,2021 Q2,0,0
+Other Countries,Total Other Countries,2021 Q2,53000,231
+Total World,Total World,2021 Q2,346000,545
+North America,Canada,2021 Q3,50000,53
+North America,USA,2021 Q3,239000,276
+North America,Total North America,2021 Q3,289000,329
+Europe,Austria,2021 Q3,24000,12
+Europe,Belgium,2021 Q3,33000,18
+Europe,Bulgaria,2021 Q3,20000,11
+Europe,Czech Republic,2021 Q3,20000,7
+Europe,Cyprus,2021 Q3,11000,15
+Europe,Denmark,2021 Q3,23000,16
+Europe,Finland,2021 Q3,3000,6
+Europe,France,2021 Q3,148000,74
+Europe,Germany,2021 Q3,144000,82
+Europe,Greece,2021 Q3,23000,27
+Europe,Hungary,2021 Q3,18000,5
+Europe,Republic of Ireland,2021 Q3,247000,102
+Europe,Italy,2021 Q3,85000,61
+Europe,Lithuania,2021 Q3,19000,7
+Europe,Luxembourg,2021 Q3,7000,5
+Europe,Malta,2021 Q3,10000,9
+Europe,Netherlands,2021 Q3,77000,44
+Europe,Norway,2021 Q3,13000,8
+Europe,Poland,2021 Q3,135000,43
+Europe,Portugal,2021 Q3,45000,27
+Europe,Romania,2021 Q3,62000,36
+Europe,Russia,2021 Q3,10000,7
+Europe,Slovakia,2021 Q3,4000,5
+Europe,Spain,2021 Q3,174000,97
+Europe,Sweden,2021 Q3,45000,27
+Europe,Switzerland,2021 Q3,63000,65
+Europe,Turkey,2021 Q3,3000,3
+Europe,Rest of Europe,2021 Q3,63000,63
+Europe,Total Europe,2021 Q3,1528000,881
+Europe,EU,2021 Q3,1395000,739
+Europe,EU15,2021 Q3,1078000,597
+Europe,EU Other,2021 Q3,317000,142
+Other Countries,Egypt,2021 Q3,2000,4
+Other Countries,Morocco,2021 Q3,1000,3
+Other Countries,Tunisia,2021 Q3,0,0
+Other Countries,Other North Africa,2021 Q3,1000,1
+Other Countries,South Africa,2021 Q3,3000,6
+Other Countries,Nigeria,2021 Q3,36000,64
+Other Countries,Other Africa,2021 Q3,7000,14
+Other Countries,Israel,2021 Q3,30000,34
+Other Countries,United Arab Emirates,2021 Q3,22000,49
+Other Countries,Other Middle East,2021 Q3,48000,179
+Other Countries,Hong Kong (China),2021 Q3,4000,10
+Other Countries,Other China,2021 Q3,8000,80
+Other Countries,India,2021 Q3,15000,30
+Other Countries,Japan,2021 Q3,2000,3
+Other Countries,Pakistan,2021 Q3,3000,2
+Other Countries,Sri Lanka,2021 Q3,0,0
+Other Countries,Thailand,2021 Q3,2000,6
+Other Countries,Other Asia,2021 Q3,13000,40
+Other Countries,Australia,2021 Q3,3000,5
+Other Countries,New Zealand,2021 Q3,3000,6
+Other Countries,Barbados,2021 Q3,1000,1
+Other Countries,Jamaica,2021 Q3,0,0
+Other Countries,Other Caribbean,2021 Q3,5000,8
+Other Countries,Brazil,2021 Q3,3000,3
+Other Countries,Mexico,2021 Q3,5000,6
+Other Countries,Other Central & Sth. America,2021 Q3,4000,8
+Other Countries,Rest of the World,2021 Q3,0,1
+Other Countries,Total Other Countries,2021 Q3,222000,565
+Total World,Total World,2021 Q3,2040000,1775
+North America,Canada,2021 Q4,72000,83
+North America,USA,2021 Q4,348000,420
+North America,Total North America,2021 Q4,421000,504
+Europe,Austria,2021 Q4,25000,12
+Europe,Belgium,2021 Q4,118000,94
+Europe,Bulgaria,2021 Q4,26000,12
+Europe,Czech Republic,2021 Q4,31000,10
+Europe,Cyprus,2021 Q4,26000,16
+Europe,Denmark,2021 Q4,72000,39
+Europe,Finland,2021 Q4,12000,10
+Europe,France,2021 Q4,493000,307
+Europe,Germany,2021 Q4,217000,125
+Europe,Greece,2021 Q4,41000,32
+Europe,Hungary,2021 Q4,37000,14
+Europe,Republic of Ireland,2021 Q4,391000,149
+Europe,Italy,2021 Q4,147000,87
+Europe,Lithuania,2021 Q4,25000,11
+Europe,Luxembourg,2021 Q4,8000,5
+Europe,Malta,2021 Q4,16000,34
+Europe,Netherlands,2021 Q4,170000,86
+Europe,Norway,2021 Q4,60000,51
+Europe,Poland,2021 Q4,183000,47
+Europe,Portugal,2021 Q4,92000,38
+Europe,Romania,2021 Q4,101000,41
+Europe,Russia,2021 Q4,7000,6
+Europe,Slovakia,2021 Q4,6000,4
+Europe,Spain,2021 Q4,302000,155
+Europe,Sweden,2021 Q4,65000,46
+Europe,Switzerland,2021 Q4,87000,63
+Europe,Turkey,2021 Q4,24000,25
+Europe,Rest of Europe,2021 Q4,122000,109
+Europe,Total Europe,2021 Q4,2904000,1626
+Europe,EU,2021 Q4,2653000,1393
+Europe,EU15,2021 Q4,2154000,1185
+Europe,EU Other,2021 Q4,499000,208
+Other Countries,Egypt,2021 Q4,4000,15
+Other Countries,Morocco,2021 Q4,1000,2
+Other Countries,Tunisia,2021 Q4,1000,0
+Other Countries,Other North Africa,2021 Q4,0,0
+Other Countries,South Africa,2021 Q4,10000,14
+Other Countries,Nigeria,2021 Q4,32000,75
+Other Countries,Other Africa,2021 Q4,15000,23
+Other Countries,Israel,2021 Q4,35000,38
+Other Countries,United Arab Emirates,2021 Q4,63000,131
+Other Countries,Other Middle East,2021 Q4,95000,297
+Other Countries,Hong Kong (China),2021 Q4,6000,22
+Other Countries,Other China,2021 Q4,3000,16
+Other Countries,India,2021 Q4,33000,72
+Other Countries,Japan,2021 Q4,5000,8
+Other Countries,Pakistan,2021 Q4,12000,12
+Other Countries,Sri Lanka,2021 Q4,0,0
+Other Countries,Thailand,2021 Q4,1000,1
+Other Countries,Other Asia,2021 Q4,54000,93
+Other Countries,Australia,2021 Q4,19000,24
+Other Countries,New Zealand,2021 Q4,5000,4
+Other Countries,Barbados,2021 Q4,1000,1
+Other Countries,Jamaica,2021 Q4,1000,2
+Other Countries,Other Caribbean,2021 Q4,10000,10
+Other Countries,Brazil,2021 Q4,13000,17
+Other Countries,Mexico,2021 Q4,3000,6
+Other Countries,Other Central & Sth. America,2021 Q4,9000,24
+Other Countries,Rest of the World,2021 Q4,0,1
+Other Countries,Total Other Countries,2021 Q4,428000,909
+Total World,Total World,2021 Q4,3753000,3039
+North America,Canada,2022 Q1,58000,38
+North America,USA,2022 Q1,357000,409
+North America,Total North America,2022 Q1,415000,447
+Europe,Austria,2022 Q1,38000,21
+Europe,Belgium,2022 Q1,107000,55
+Europe,Bulgaria,2022 Q1,28000,8
+Europe,Czech Republic,2022 Q1,38000,13
+Europe,Cyprus,2022 Q1,17000,18
+Europe,Denmark,2022 Q1,54000,24
+Europe,Finland,2022 Q1,16000,15
+Europe,France,2022 Q1,462000,265
+Europe,Germany,2022 Q1,208000,112
+Europe,Greece,2022 Q1,30000,28
+Europe,Hungary,2022 Q1,52000,14
+Europe,Republic of Ireland,2022 Q1,417000,174
+Europe,Italy,2022 Q1,162000,122
+Europe,Lithuania,2022 Q1,28000,7
+Europe,Luxembourg,2022 Q1,10000,7
+Europe,Malta,2022 Q1,9000,4
+Europe,Netherlands,2022 Q1,188000,83
+Europe,Norway,2022 Q1,45000,31
+Europe,Poland,2022 Q1,178000,33
+Europe,Portugal,2022 Q1,66000,31
+Europe,Romania,2022 Q1,114000,36
+Europe,Russia,2022 Q1,11000,7
+Europe,Slovakia,2022 Q1,13000,3
+Europe,Spain,2022 Q1,244000,106
+Europe,Sweden,2022 Q1,61000,45
+Europe,Switzerland,2022 Q1,107000,67
+Europe,Turkey,2022 Q1,28000,19
+Europe,Rest of Europe,2022 Q1,88000,67
+Europe,Total Europe,2022 Q1,2821000,1413
+Europe,EU,2022 Q1,2570000,1245
+Europe,EU15,2022 Q1,2063000,1088
+Europe,EU Other,2022 Q1,506000,157
+Other Countries,Egypt,2022 Q1,3000,8
+Other Countries,Morocco,2022 Q1,3000,6
+Other Countries,Tunisia,2022 Q1,0,1
+Other Countries,Other North Africa,2022 Q1,1000,1
+Other Countries,South Africa,2022 Q1,21000,27
+Other Countries,Nigeria,2022 Q1,36000,74
+Other Countries,Other Africa,2022 Q1,18000,34
+Other Countries,Israel,2022 Q1,28000,19
+Other Countries,United Arab Emirates,2022 Q1,54000,120
+Other Countries,Other Middle East,2022 Q1,80000,250
+Other Countries,Hong Kong (China),2022 Q1,3000,4
+Other Countries,Other China,2022 Q1,5000,20
+Other Countries,India,2022 Q1,56000,69
+Other Countries,Japan,2022 Q1,7000,7
+Other Countries,Pakistan,2022 Q1,8000,13
+Other Countries,Sri Lanka,2022 Q1,1000,2
+Other Countries,Thailand,2022 Q1,5000,9
+Other Countries,Other Asia,2022 Q1,50000,135
+Other Countries,Australia,2022 Q1,45000,88
+Other Countries,New Zealand,2022 Q1,5000,10
+Other Countries,Barbados,2022 Q1,1000,1
+Other Countries,Jamaica,2022 Q1,1000,1
+Other Countries,Other Caribbean,2022 Q1,6000,9
+Other Countries,Brazil,2022 Q1,45000,49
+Other Countries,Mexico,2022 Q1,7000,7
+Other Countries,Other Central & Sth. America,2022 Q1,17000,27
+Other Countries,Rest of the World,2022 Q1,0,0
+Other Countries,Total Other Countries,2022 Q1,508000,992
+Total World,Total World,2022 Q1,3743000,2852
+North America,Canada,2022 Q2,272000,296
+North America,USA,2022 Q2,1315000,1818
+North America,Total North America,2022 Q2,1587000,2113
+Europe,Austria,2022 Q2,67000,41
+Europe,Belgium,2022 Q2,164000,107
+Europe,Bulgaria,2022 Q2,52000,19
+Europe,Czech Republic,2022 Q2,78000,31
+Europe,Cyprus,2022 Q2,23000,10
+Europe,Denmark,2022 Q2,108000,57
+Europe,Finland,2022 Q2,37000,22
+Europe,France,2022 Q2,829000,394
+Europe,Germany,2022 Q2,604000,383
+Europe,Greece,2022 Q2,36000,27
+Europe,Hungary,2022 Q2,48000,16
+Europe,Republic of Ireland,2022 Q2,645000,271
+Europe,Italy,2022 Q2,287000,135
+Europe,Lithuania,2022 Q2,37000,25
+Europe,Luxembourg,2022 Q2,26000,20
+Europe,Malta,2022 Q2,16000,10
+Europe,Netherlands,2022 Q2,454000,243
+Europe,Norway,2022 Q2,114000,90
+Europe,Poland,2022 Q2,289000,89
+Europe,Portugal,2022 Q2,98000,45
+Europe,Romania,2022 Q2,129000,65
+Europe,Russia,2022 Q2,3000,3
+Europe,Slovakia,2022 Q2,18000,5
+Europe,Spain,2022 Q2,468000,236
+Europe,Sweden,2022 Q2,131000,76
+Europe,Switzerland,2022 Q2,239000,190
+Europe,Turkey,2022 Q2,45000,49
+Europe,Rest of Europe,2022 Q2,144000,115
+Europe,Total Europe,2022 Q2,5189000,2773
+Europe,EU,2022 Q2,4699000,2352
+Europe,EU15,2022 Q2,3954000,2055
+Europe,EU Other,2022 Q2,746000,297
+Other Countries,Egypt,2022 Q2,7000,12
+Other Countries,Morocco,2022 Q2,2000,1
+Other Countries,Tunisia,2022 Q2,3000,4
+Other Countries,Other North Africa,2022 Q2,2000,4
+Other Countries,South Africa,2022 Q2,44000,82
+Other Countries,Nigeria,2022 Q2,49000,82
+Other Countries,Other Africa,2022 Q2,39000,63
+Other Countries,Israel,2022 Q2,63000,54
+Other Countries,United Arab Emirates,2022 Q2,85000,154
+Other Countries,Other Middle East,2022 Q2,131000,382
+Other Countries,Hong Kong (China),2022 Q2,19000,33
+Other Countries,Other China,2022 Q2,14000,45
+Other Countries,India,2022 Q2,143000,186
+Other Countries,Japan,2022 Q2,17000,32
+Other Countries,Pakistan,2022 Q2,29000,48
+Other Countries,Sri Lanka,2022 Q2,2000,6
+Other Countries,Thailand,2022 Q2,24000,46
+Other Countries,Other Asia,2022 Q2,112000,177
+Other Countries,Australia,2022 Q2,176000,299
+Other Countries,New Zealand,2022 Q2,33000,40
+Other Countries,Barbados,2022 Q2,1000,1
+Other Countries,Jamaica,2022 Q2,0,0
+Other Countries,Other Caribbean,2022 Q2,17000,16
+Other Countries,Brazil,2022 Q2,62000,65
+Other Countries,Mexico,2022 Q2,46000,64
+Other Countries,Other Central & Sth. America,2022 Q2,59000,62
+Other Countries,Rest of the World,2022 Q2,2000,3
+Other Countries,Total Other Countries,2022 Q2,1181000,1960
+Total World,Total World,2022 Q2,7957000,6847
+North America,Canada,2022 Q3,366000,375
+North America,USA,2022 Q3,1791000,2359
+North America,Total North America,2022 Q3,2157000,2734
+Europe,Austria,2022 Q3,87000,54
+Europe,Belgium,2022 Q3,224000,109
+Europe,Bulgaria,2022 Q3,40000,30
+Europe,Czech Republic,2022 Q3,98000,49
+Europe,Cyprus,2022 Q3,36000,38
+Europe,Denmark,2022 Q3,184000,109
+Europe,Finland,2022 Q3,65000,45
+Europe,France,2022 Q3,697000,432
+Europe,Germany,2022 Q3,748000,503
+Europe,Greece,2022 Q3,47000,36
+Europe,Hungary,2022 Q3,69000,27
+Europe,Republic of Ireland,2022 Q3,715000,277
+Europe,Italy,2022 Q3,391000,271
+Europe,Lithuania,2022 Q3,40000,17
+Europe,Luxembourg,2022 Q3,31000,26
+Europe,Malta,2022 Q3,21000,12
+Europe,Netherlands,2022 Q3,485000,289
+Europe,Norway,2022 Q3,198000,168
+Europe,Poland,2022 Q3,381000,126
+Europe,Portugal,2022 Q3,125000,64
+Europe,Romania,2022 Q3,163000,70
+Europe,Russia,2022 Q3,16000,13
+Europe,Slovakia,2022 Q3,27000,15
+Europe,Spain,2022 Q3,540000,313
+Europe,Sweden,2022 Q3,204000,137
+Europe,Switzerland,2022 Q3,248000,211
+Europe,Turkey,2022 Q3,42000,27
+Europe,Rest of Europe,2022 Q3,165000,138
+Europe,Total Europe,2022 Q3,6084000,3604
+Europe,EU,2022 Q3,5473000,3074
+Europe,EU15,2022 Q3,4542000,2667
+Europe,EU Other,2022 Q3,931000,407
+Other Countries,Egypt,2022 Q3,11000,23
+Other Countries,Morocco,2022 Q3,3000,8
+Other Countries,Tunisia,2022 Q3,3000,4
+Other Countries,Other North Africa,2022 Q3,6000,11
+Other Countries,South Africa,2022 Q3,80000,97
+Other Countries,Nigeria,2022 Q3,67000,109
+Other Countries,Other Africa,2022 Q3,45000,70
+Other Countries,Israel,2022 Q3,72000,76
+Other Countries,United Arab Emirates,2022 Q3,122000,250
+Other Countries,Other Middle East,2022 Q3,144000,388
+Other Countries,Hong Kong (China),2022 Q3,43000,104
+Other Countries,Other China,2022 Q3,28000,89
+Other Countries,India,2022 Q3,176000,270
+Other Countries,Japan,2022 Q3,48000,73
+Other Countries,Pakistan,2022 Q3,25000,39
+Other Countries,Sri Lanka,2022 Q3,6000,15
+Other Countries,Thailand,2022 Q3,30000,31
+Other Countries,Other Asia,2022 Q3,135000,202
+Other Countries,Australia,2022 Q3,322000,468
+Other Countries,New Zealand,2022 Q3,52000,71
+Other Countries,Barbados,2022 Q3,4000,5
+Other Countries,Jamaica,2022 Q3,3000,3
+Other Countries,Other Caribbean,2022 Q3,28000,31
+Other Countries,Brazil,2022 Q3,91000,115
+Other Countries,Mexico,2022 Q3,78000,87
+Other Countries,Other Central & Sth. America,2022 Q3,79000,84
+Other Countries,Rest of the World,2022 Q3,2000,1
+Other Countries,Total Other Countries,2022 Q3,17060000,2729
+Total World,Total World,2022 Q3,9946000,9066
+North America,Canada,2022 Q4,201000,225
+North America,USA,2022 Q4,1123000,1376
+North America,Total North America,2022 Q4,1324000,1601
+Europe,Austria,2022 Q4,96000,68
+Europe,Belgium,2022 Q4,184000,132
+Europe,Bulgaria,2022 Q4,63000,56
+Europe,Czech Republic,2022 Q4,62000,56
+Europe,Cyprus,2022 Q4,46000,40
+Europe,Denmark,2022 Q4,220000,118
+Europe,Finland,2022 Q4,51000,32
+Europe,France,2022 Q4,842000,483
+Europe,Germany,2022 Q4,673000,394
+Europe,Greece,2022 Q4,72000,51
+Europe,Hungary,2022 Q4,85000,32
+Europe,Republic of Ireland,2022 Q4,731000,304
+Europe,Italy,2022 Q4,473000,270
+Europe,Lithuania,2022 Q4,60000,19
+Europe,Luxembourg,2022 Q4,15000,14
+Europe,Malta,2022 Q4,24000,10
+Europe,Netherlands,2022 Q4,504000,279
+Europe,Norway,2022 Q4,190000,129
+Europe,Poland,2022 Q4,497000,167
+Europe,Portugal,2022 Q4,205000,83
+Europe,Romania,2022 Q4,228000,106
+Europe,Russia,2022 Q4,13000,24
+Europe,Slovakia,2022 Q4,19000,16
+Europe,Spain,2022 Q4,759000,400
+Europe,Sweden,2022 Q4,235000,136
+Europe,Switzerland,2022 Q4,268000,179
+Europe,Turkey,2022 Q4,72000,72
+Europe,Rest of Europe,2022 Q4,195000,221
+Europe,Total Europe,2022 Q4,6886000,3889
+Europe,EU,2022 Q4,6218000,3291
+Europe,EU15,2022 Q4,5062000,2763
+Europe,EU Other,2022 Q4,1156000,528
+Other Countries,Egypt,2022 Q4,10000,14
+Other Countries,Morocco,2022 Q4,7000,6
+Other Countries,Tunisia,2022 Q4,3000,2
+Other Countries,Other North Africa,2022 Q4,5000,9
+Other Countries,South Africa,2022 Q4,63000,68
+Other Countries,Nigeria,2022 Q4,55000,72
+Other Countries,Other Africa,2022 Q4,24000,39
+Other Countries,Israel,2022 Q4,82000,86
+Other Countries,United Arab Emirates,2022 Q4,118000,269
+Other Countries,Other Middle East,2022 Q4,115000,348
+Other Countries,Hong Kong (China),2022 Q4,47000,94
+Other Countries,Other China,2022 Q4,26000,64
+Other Countries,India,2022 Q4,141000,239
+Other Countries,Japan,2022 Q4,43000,51
+Other Countries,Pakistan,2022 Q4,23000,52
+Other Countries,Sri Lanka,2022 Q4,3000,3
+Other Countries,Thailand,2022 Q4,23000,20
+Other Countries,Other Asia,2022 Q4,186000,240
+Other Countries,Australia,2022 Q4,179000,263
+Other Countries,New Zealand,2022 Q4,36000,77
+Other Countries,Barbados,2022 Q4,1000,2
+Other Countries,Jamaica,2022 Q4,3000,3
+Other Countries,Other Caribbean,2022 Q4,23000,42
+Other Countries,Brazil,2022 Q4,68000,83
+Other Countries,Mexico,2022 Q4,32000,27
+Other Countries,Other Central & Sth. America,2022 Q4,72000,66
+Other Countries,Rest of the World,2022 Q4,0,0
+Other Countries,Total Other Countries,2022 Q4,1388000,2242
+Total World,Total World,2022 Q4,9598000,7732
+North America,Canada,2023 Q1,165000,173
+North America,USA,2023 Q1,829000,920
+North America,Total North America,2023 Q1,994000,1093
+Europe,Austria,2023 Q1,61000,33
+Europe,Belgium,2023 Q1,198000,88
+Europe,Bulgaria,2023 Q1,55000,12
+Europe,Czech Republic,2023 Q1,54000,19
+Europe,Cyprus,2023 Q1,33000,26
+Europe,Denmark,2023 Q1,150000,81
+Europe,Finland,2023 Q1,42000,27
+Europe,France,2023 Q1,673000,359
+Europe,Germany,2023 Q1,469000,231
+Europe,Greece,2023 Q1,61000,48
+Europe,Hungary,2023 Q1,62000,13
+Europe,Republic of Ireland,2023 Q1,740000,334
+Europe,Italy,2023 Q1,418000,220
+Europe,Lithuania,2023 Q1,31000,8
+Europe,Luxembourg,2023 Q1,14000,4
+Europe,Malta,2023 Q1,42000,26
+Europe,Netherlands,2023 Q1,371000,171
+Europe,Norway,2023 Q1,138000,99
+Europe,Poland,2023 Q1,432000,101
+Europe,Portugal,2023 Q1,110000,76
+Europe,Romania,2023 Q1,214000,71
+Europe,Russia,2023 Q1,5000,12
+Europe,Slovakia,2023 Q1,33000,11
+Europe,Spain,2023 Q1,497000,190
+Europe,Sweden,2023 Q1,153000,75
+Europe,Switzerland,2023 Q1,194000,166
+Europe,Turkey,2023 Q1,64000,51
+Europe,Rest of Europe,2023 Q1,154000,97
+Europe,Total Europe,2023 Q1,5467000,2647
+Europe,EU,2023 Q1,4968000,2241
+Europe,EU15,2023 Q1,3956000,1937
+Europe,EU Other,2023 Q1,1012000,304
+Other Countries,Egypt,2023 Q1,3000,6
+Other Countries,Morocco,2023 Q1,11000,23
+Other Countries,Tunisia,2023 Q1,1000,1
+Other Countries,Other North Africa,2023 Q1,7000,9
+Other Countries,South Africa,2023 Q1,42000,51
+Other Countries,Nigeria,2023 Q1,40000,84
+Other Countries,Other Africa,2023 Q1,32000,51
+Other Countries,Israel,2023 Q1,95000,102
+Other Countries,United Arab Emirates,2023 Q1,79000,143
+Other Countries,Other Middle East,2023 Q1,128000,389
+Other Countries,Hong Kong (China),2023 Q1,40000,68
+Other Countries,Other China,2023 Q1,22000,80
+Other Countries,India,2023 Q1,90000,118
+Other Countries,Japan,2023 Q1,57000,57
+Other Countries,Pakistan,2023 Q1,18000,24
+Other Countries,Sri Lanka,2023 Q1,3000,2
+Other Countries,Thailand,2023 Q1,12000,20
+Other Countries,Other Asia,2023 Q1,131000,173
+Other Countries,Australia,2023 Q1,154000,184
+Other Countries,New Zealand,2023 Q1,37000,41
+Other Countries,Barbados,2023 Q1,3000,2
+Other Countries,Jamaica,2023 Q1,3000,2
+Other Countries,Other Caribbean,2023 Q1,15000,12
+Other Countries,Brazil,2023 Q1,93000,111
+Other Countries,Mexico,2023 Q1,35000,39
+Other Countries,Other Central & Sth. America,2023 Q1,74000,90
+Other Countries,Rest of the World,2023 Q1,2000,0
+Other Countries,Total Other Countries,2023 Q1,1225000,1881
+Total World,Total World,2023 Q1,7686000,5621
+North America,Canada,2023 Q2,268000,240
+North America,USA,2023 Q2,1687000,2048
+North America,Total North America,2023 Q2,1955000,2288
+Europe,Austria,2023 Q2,84000,69
+Europe,Belgium,2023 Q2,225000,110
+Europe,Bulgaria,2023 Q2,52000,25
+Europe,Czech Republic,2023 Q2,67000,28
+Europe,Cyprus,2023 Q2,23000,14
+Europe,Denmark,2023 Q2,133000,65
+Europe,Finland,2023 Q2,67000,43
+Europe,France,2023 Q2,814000,393
+Europe,Germany,2023 Q2,900000,514
+Europe,Greece,2023 Q2,50000,37
+Europe,Hungary,2023 Q2,73000,28
+Europe,Republic of Ireland,2023 Q2,722000,300
+Europe,Italy,2023 Q2,378000,227
+Europe,Lithuania,2023 Q2,46000,15
+Europe,Luxembourg,2023 Q2,25000,13
+Europe,Malta,2023 Q2,28000,13
+Europe,Netherlands,2023 Q2,492000,270
+Europe,Norway,2023 Q2,160000,120
+Europe,Poland,2023 Q2,421000,87
+Europe,Portugal,2023 Q2,129000,47
+Europe,Romania,2023 Q2,169000,55
+Europe,Russia,2023 Q2,11000,5
+Europe,Slovakia,2023 Q2,33000,13
+Europe,Spain,2023 Q2,467000,225
+Europe,Sweden,2023 Q2,205000,131
+Europe,Switzerland,2023 Q2,246000,166
+Europe,Turkey,2023 Q2,72000,105
+Europe,Rest of Europe,2023 Q2,161000,107
+Europe,Total Europe,2023 Q2,6256000,3228
+Europe,EU,2023 Q2,5671000,2751
+Europe,EU15,2023 Q2,4693000,2445
+Europe,EU Other,2023 Q2,978000,307
+Other Countries,Egypt,2023 Q2,9000,19
+Other Countries,Morocco,2023 Q2,13000,5
+Other Countries,Tunisia,2023 Q2,1000,0
+Other Countries,Other North Africa,2023 Q2,8000,7
+Other Countries,South Africa,2023 Q2,44000,60
+Other Countries,Nigeria,2023 Q2,49000,83
+Other Countries,Other Africa,2023 Q2,24000,51
+Other Countries,Israel,2023 Q2,98000,86
+Other Countries,United Arab Emirates,2023 Q2,95000,158
+Other Countries,Other Middle East,2023 Q2,133000,301
+Other Countries,Hong Kong (China),2023 Q2,62000,83
+Other Countries,Other China,2023 Q2,81000,182
+Other Countries,India,2023 Q2,186000,230
+Other Countries,Japan,2023 Q2,37000,54
+Other Countries,Pakistan,2023 Q2,23000,29
+Other Countries,Sri Lanka,2023 Q2,5000,11
+Other Countries,Thailand,2023 Q2,38000,60
+Other Countries,Other Asia,2023 Q2,183000,246
+Other Countries,Australia,2023 Q2,308000,415
+Other Countries,New Zealand,2023 Q2,68000,93
+Other Countries,Barbados,2023 Q2,2000,2
+Other Countries,Jamaica,2023 Q2,0,0
+Other Countries,Other Caribbean,2023 Q2,22000,15
+Other Countries,Brazil,2023 Q2,82000,91
+Other Countries,Mexico,2023 Q2,35000,38
+Other Countries,Other Central & Sth. America,2023 Q2,86000,77
+Other Countries,Rest of the World,2023 Q2,2000,1
+Other Countries,Total Other Countries,2023 Q2,1694000,2398
+Total World,Total World,2023 Q2,9906000,7913
+North America,Canada,2023 Q3,352000,366
+North America,USA,2023 Q3,1578000,2010
+North America,Total North America,2023 Q3,1930000,2376
+Europe,Austria,2023 Q3,94000,64
+Europe,Belgium,2023 Q3,238000,164
+Europe,Bulgaria,2023 Q3,58000,17
+Europe,Czech Republic,2023 Q3,96000,46
+Europe,Cyprus,2023 Q3,22000,19
+Europe,Denmark,2023 Q3,185000,130
+Europe,Finland,2023 Q3,47000,36
+Europe,France,2023 Q3,835000,475
+Europe,Germany,2023 Q3,900000,653
+Europe,Greece,2023 Q3,48000,32
+Europe,Hungary,2023 Q3,71000,21
+Europe,Republic of Ireland,2023 Q3,768000,314
+Europe,Italy,2023 Q3,399000,291
+Europe,Lithuania,2023 Q3,50000,27
+Europe,Luxembourg,2023 Q3,13000,16
+Europe,Malta,2023 Q3,20000,11
+Europe,Netherlands,2023 Q3,580000,416
+Europe,Norway,2023 Q3,149000,99
+Europe,Poland,2023 Q3,400000,135
+Europe,Portugal,2023 Q3,135000,66
+Europe,Romania,2023 Q3,197000,89
+Europe,Russia,2023 Q3,8000,3
+Europe,Slovakia,2023 Q3,39000,17
+Europe,Spain,2023 Q3,598000,324
+Europe,Sweden,2023 Q3,140000,111
+Europe,Switzerland,2023 Q3,258000,237
+Europe,Turkey,2023 Q3,94000,118
+Europe,Rest of Europe,2023 Q3,153000,156
+Europe,Total Europe,2023 Q3,6596000,4087
+Europe,EU,2023 Q3,5995000,3537
+Europe,EU15,2023 Q3,4980000,3091
+Europe,EU Other,2023 Q3,1015000,446
+Other Countries,Egypt,2023 Q3,8000,4
+Other Countries,Morocco,2023 Q3,3000,3
+Other Countries,Tunisia,2023 Q3,11000,6
+Other Countries,Other North Africa,2023 Q3,4000,4
+Other Countries,South Africa,2023 Q3,82000,108
+Other Countries,Nigeria,2023 Q3,79000,143
+Other Countries,Other Africa,2023 Q3,60000,79
+Other Countries,Israel,2023 Q3,83000,78
+Other Countries,United Arab Emirates,2023 Q3,160000,316
+Other Countries,Other Middle East,2023 Q3,226000,550
+Other Countries,Hong Kong (China),2023 Q3,99000,125
+Other Countries,Other China,2023 Q3,201000,408
+Other Countries,India,2023 Q3,184000,260
+Other Countries,Japan,2023 Q3,81000,86
+Other Countries,Pakistan,2023 Q3,22000,27
+Other Countries,Sri Lanka,2023 Q3,6000,2
+Other Countries,Thailand,2023 Q3,32000,32
+Other Countries,Other Asia,2023 Q3,193000,255
+Other Countries,Australia,2023 Q3,456000,669
+Other Countries,New Zealand,2023 Q3,107000,154
+Other Countries,Barbados,2023 Q3,4000,5
+Other Countries,Jamaica,2023 Q3,3000,7
+Other Countries,Other Caribbean,2023 Q3,26000,17
+Other Countries,Brazil,2023 Q3,86000,125
+Other Countries,Mexico,2023 Q3,68000,62
+Other Countries,Other Central & Sth. America,2023 Q3,115000,123
+Other Countries,Rest of the World,2023 Q3,3000,2
+Other Countries,Total Other Countries,2023 Q3,2401000,3650
+Total World,Total World,2023 Q3,10928000,10113
+North America,Canada,2023 Q4,219000,191
+North America,USA,2023 Q4,1028000,1280
+North America,Total North America,2023 Q4,1247000,1471
+Europe,Austria,2023 Q4,98000,78
+Europe,Belgium,2023 Q4,206000,120
+Europe,Bulgaria,2023 Q4,51000,23
+Europe,Czech Republic,2023 Q4,67000,23
+Europe,Cyprus,2023 Q4,24000,23
+Europe,Denmark,2023 Q4,161000,86
+Europe,Finland,2023 Q4,47000,31
+Europe,France,2023 Q4,850000,407
+Europe,Germany,2023 Q4,688000,432
+Europe,Greece,2023 Q4,81000,67
+Europe,Hungary,2023 Q4,93000,30
+Europe,Republic of Ireland,2023 Q4,658000,288
+Europe,Italy,2023 Q4,501000,234
+Europe,Lithuania,2023 Q4,67000,28
+Europe,Luxembourg,2023 Q4,29000,24
+Europe,Malta,2023 Q4,34000,19
+Europe,Netherlands,2023 Q4,518000,260
+Europe,Norway,2023 Q4,153000,129
+Europe,Poland,2023 Q4,375000,149
+Europe,Portugal,2023 Q4,184000,104
+Europe,Romania,2023 Q4,226000,80
+Europe,Russia,2023 Q4,11000,8
+Europe,Slovakia,2023 Q4,29000,13
+Europe,Spain,2023 Q4,648000,329
+Europe,Sweden,2023 Q4,175000,93
+Europe,Switzerland,2023 Q4,269000,186
+Europe,Turkey,2023 Q4,81000,57
+Europe,Rest of Europe,2023 Q4,184000,147
+Europe,Total Europe,2023 Q4,6506000,3469
+Europe,EU,2023 Q4,5864000,2975
+Europe,EU15,2023 Q4,4843000,2553
+Europe,EU Other,2023 Q4,1021000,422
+Other Countries,Egypt,2023 Q4,17000,28
+Other Countries,Morocco,2023 Q4,16000,23
+Other Countries,Tunisia,2023 Q4,2000,1
+Other Countries,Other North Africa,2023 Q4,4000,5
+Other Countries,South Africa,2023 Q4,51000,70
+Other Countries,Nigeria,2023 Q4,52000,83
+Other Countries,Other Africa,2023 Q4,34000,29
+Other Countries,Israel,2023 Q4,30000,35
+Other Countries,United Arab Emirates,2023 Q4,142000,297
+Other Countries,Other Middle East,2023 Q4,174000,399
+Other Countries,Hong Kong (China),2023 Q4,55000,106
+Other Countries,Other China,2023 Q4,128000,195
+Other Countries,India,2023 Q4,144000,195
+Other Countries,Japan,2023 Q4,50000,46
+Other Countries,Pakistan,2023 Q4,21000,30
+Other Countries,Sri Lanka,2023 Q4,3000,2
+Other Countries,Thailand,2023 Q4,39000,46
+Other Countries,Other Asia,2023 Q4,184000,250
+Other Countries,Australia,2023 Q4,251000,329
+Other Countries,New Zealand,2023 Q4,53000,58
+Other Countries,Barbados,2023 Q4,2000,12
+Other Countries,Jamaica,2023 Q4,2000,2
+Other Countries,Other Caribbean,2023 Q4,15000,19
+Other Countries,Brazil,2023 Q4,83000,99
+Other Countries,Mexico,2023 Q4,49000,35
+Other Countries,Other Central & Sth. America,2023 Q4,86000,93
+Other Countries,Rest of the World,2023 Q4,0,0
+Other Countries,Total Other Countries,2023 Q4,1688000,2489
+Total World,Total World,2023 Q4,9441000,7428
